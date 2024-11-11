@@ -25,9 +25,8 @@ class Solution(object):
                 stack.append(char)
         
         # If the stack is empty, all brackets are closed properly
-        return not stack
+        return not stack
 
-    
 
 
 
